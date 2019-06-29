@@ -14,3 +14,5 @@ module.exports = presets.production({
     path: filePath('mu-plugins/myproject-blocks/build')
   }
 })
+
+console.log(JSON.stringify(module.exports, null, 2))
