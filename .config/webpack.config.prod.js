@@ -8,8 +8,7 @@ const { filePath } = helpers
 module.exports = presets.production({
   externals,
   entry: {
-    editor: filePath('mu-plugins/myproject-blocks/src/editor.js'),
-    frontend: filePath('mu-plugins/myproject-blocks/src/frontend.js')
+    editor: filePath('mu-plugins/myproject-blocks/src/editor.js')
   },
   output: {
     path: filePath('mu-plugins/myproject-blocks/build')

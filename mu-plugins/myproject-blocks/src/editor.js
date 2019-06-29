@@ -1,2 +1,1 @@
-import meta from '../../../package.json'
-console.log(meta)
+import React from '@wordpress/element'
