@@ -1,5 +1,6 @@
 {
-  "name": "sandbox-humanmade__webpack-helper",
+  "name": "sandbox-humanmade__webpack-helpers",
+  "description": "My sandbox of @humanmade/webpack-heplers",
   "version": "2.1.1",
   "main": "index.js",
   "license": "MIT",
